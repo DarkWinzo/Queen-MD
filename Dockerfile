@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-WORKDIR /root/AlienAlfa/
+WORKDIR /root/Queen/
 
-COPY ./ /root/AlienAlfa/
+COPY ./ /root/Queen/
 
 RUN apt-get update && \
   apt-get install -y \
