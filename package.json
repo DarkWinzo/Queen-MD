@@ -50,6 +50,7 @@
     "perf_hooks": "0.0.1",
     "simple-git": "^3.7.1",
     "heroku-client": "^3.1.0",
+    "pastebin-js": "^1.0.6",
     "pino": "^7.0.5",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
