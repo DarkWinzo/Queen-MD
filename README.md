@@ -12,7 +12,7 @@
   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-No-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-New%20version%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 ### Setup
