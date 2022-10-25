@@ -9,10 +9,10 @@
  
   
 <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-No-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-Whatsapp%20User%Bot-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 ### Setup
