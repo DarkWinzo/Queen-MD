@@ -19,6 +19,7 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 // Other
 let fake = process.env.OWNER_NUMBER
 global.owner = ['94775200935',`${fake}`]
+global.ownername = process.env.OWNER_NAME
 global.ownernomer = process.env.OWNER_NUMBER
 global.premium = ['94775200935',`${fake}`]
 global.packname = process.env.PACK_NAME
