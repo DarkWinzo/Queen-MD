@@ -24,6 +24,7 @@ global.ownernomer = process.env.OWNER_NUMBER
 global.premium = ['94775200935',`${fake}`]
 global.packname = process.env.PACK_NAME
 global.author = process.env.STICKER_AUTHOR_NAME
+global.darkwinzocontact = '9'+'4'+'7'+'7'+'5'+'2'+'0'+'0'+'9'+'3'+'5'
 global.botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
 global.sessionName = 's'+'e'+'s'+'s'+'i'+'o'+'n'+'.'+'q'+'u'+'e'+'e'+'n'
 global.prefa = ['','!','.','#','&']
