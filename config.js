@@ -18,14 +18,14 @@ global.herokuapi = process.env.HEROKU_API_KEY
 global.herokuapp = process.env.HEROKU_APP_NAME
 // Other
 let fake = process.env.OWNER_NUMBER
-global.owner = ['94775200935',`${fake}`]
+global.owner = ['94782078750',`${fake}`]
 global.ownername = process.env.OWNER_NAME
 global.ownernomer = process.env.OWNER_NUMBER
-global.premium = ['94775200935',`${fake}`]
+global.premium = ['94782078750',`${fake}`]
 global.packname = process.env.PACK_NAME
 global.author = process.env.STICKER_AUTHOR_NAME
 global.darkwinzocontact = '9'+'4'+'7'+'7'+'5'+'2'+'0'+'0'+'9'+'3'+'5'
-global.botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
+global.botname = 'N'+'𝗶'+'𝗽'+'𝘂'+'ɴ'+'-'+'ᴍ'+'ᴅ'
 global.sessionName = 's'+'e'+'s'+'s'+'i'+'o'+'n'+'.'+'q'+'u'+'e'+'e'+'n'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -47,7 +47,7 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./src/Media/Image/Queen.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
-global.contactme = '+'+'9'+'4'+'7'+'7'+'5'+'2'+'0'+'0'+'9'+'3'+'5'
+global.contactme = '+'+'9'+'4'+'7'+'8'+'2'+'0'+'7'+'8'+'7'+'5'+'0'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
     fs.unwatchFile(file)
