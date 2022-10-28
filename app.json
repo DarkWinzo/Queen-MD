@@ -9,15 +9,7 @@
   "plan": "heroku-postgresql"
     }],
     "env": {
-      "HEROKU_APP_NAME": {
-        "description": "Heroku app name, same as above entered",
-        "required": true
-      },
-      "HEROKU_API_KEY": {
-        "description": "Heroku account api key, https://dashboard.heroku.com/account",
-        "required": true
-      },
-		"OWNER_NAME": {
+               "OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it",
 			"required": false,
 			"value": "DarkWinzo"
@@ -27,7 +19,15 @@
 			"required": true,
 			"value": ""
 		},
-		"PACK_NAME": {
+	        "HEROKU_APP_NAME": {
+                       "description": "Heroku app name, same as above entered",
+                       "required": true
+                },
+                "HEROKU_API_KEY": {
+                       "description": "Heroku account api key, https://dashboard.heroku.com/account",
+                       "required": true
+                },
+	        "PACK_NAME": {
 			"description": "Add pack name here",
 			"required": true,
 			"value": "Queen-MD"
