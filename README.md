@@ -21,7 +21,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="[https://github.com/DarkWinzo/Queen-MD/blob/main/Media/Image/Deploy.png](https://i.ibb.co/svFn1pv/Deploy.jpg)?raw=true" width="300"></a>
+  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/svFn1pv/Deploy.jpg?raw=true" width="300"></a>
   
 
  
