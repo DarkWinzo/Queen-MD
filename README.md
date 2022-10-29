@@ -21,7 +21,7 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/0n1L322/images-q-tbn-ANd9-Gc-TSp03ejrlq-Slqrtvd-Jeo8-I4-Mq-GR70iy-J1enw-usqp-CAU.png?raw=true" width="300"></a>
+  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/0n1L322/images-q-tbn-ANd9-Gc-TSp03ejrlq-Slqrtvd-Jeo8-I4-Mq-GR70iy-J1enw-usqp-CAU.png?raw=true" width="200"></a>
   
 
  
