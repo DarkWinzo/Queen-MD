@@ -9,25 +9,25 @@
  
   
 <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-No-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-New%20version%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
 
-### Setup
-
-1. Click [SCAN](https://queenmd-qr.darkwinzo.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. Click [FORK](https://github.com/DarkWinzo/Queen-MD/fork)
-3. You will get a session File in whatsapp,Upload queen.session.json File to src/Session file .
-4. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-
-
-### Now DEPLOY
-
-```
-[![Deploy] (https://www.herokucdn.com/deploy)](https://heroku.com/deploy?template=https://github.com/YOUR USERNAME/Queen-MD/)
-```
-
-   <a href="https://chat.whatsapp.com/IWvaZWObbJK0Dr64WQdGqO"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<div align="center">
+  
+# `❗❗FORK THIS BEFORE PROCEEDING`
+ 
+ `Use This Button To Fork Now`
+  
+  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://github.com/DarkWinzo/Queen-MD/blob/main/Media/Image/Deploy.png?raw=true" width="200"></a>
+  
+# `Scan QR Code For Session`
+ 
+<a href="https://queenmd-qr.darkwinzo.repl.co/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+  <br><br><br>
+# `Upload Session to Github`
 
 ### ⚠️ How to Deploy! 
   
@@ -55,9 +55,71 @@
 ❤️අසා සිටි සැමට සම්මා සම්බුදු සරණයි..........මන් DarkWinzo.
 
 ``` 
+  
+  <br><br>
 
-### Thanks To
+<!---->
 
-- [DarkWinzo](https://github.com/DarkWinzo) for [Queen-MD Main Developer](https://github.com/DarkWinzo/Queen-MD)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
 
+Deploy Queen Bot heroku  <br>
+
+  ```
+  https://heroku.com/deploy?template=https://github.com/GITHUB ID/Queen-MD 
+  ```
+  
+  <br> <br>
+  
+  ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
+
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+git clone https://github.com/DarkWinzo/Queen-MD
+cd Queen-MD
+npm install
+npm i pm2
+pm2 start index.js && pm2 save && pm2 logs
+```
+
+## ⚠️ RECOMMENDED INSTALL ON TERMUX
+
+```bash
+pkg install yarn
+yarn
+```
+
+## ⚠️ To Start With Deamon
+```
+npm i pm2
+pm2 start index.js && pm2 save && pm2 logs
+```
+<h2 align="center">Contact Me:</h2>
+<p align="center">
+<a href="Wa.me/94775200935" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="DarkWinzo" height="30" width="40" /></a>
+<a href="https://t.me/DarkWinzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="DarkWinzo" height="30" width="40" /></a>
+</p>
+
+---
+  
+## ⚠️ Coded By,
+  <div align="center">
+  
+| [![DarkWinzo](https://github.com/DarkWinzo.png?size=200)](https://github.com/DarkWinzo) |
+|----|
+| [𒆜DarkWinzo𒆜](https://github.com/AI-VIKI) |
+|  𒆜Bug Fixes, Modules, updates𒆜 |
+  
+  </div>
+
+## ❗ Warning
+You Can't Modify This Base
+
+
+## ⚠️ Thanks To 😻
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`DarkWinzo`](https://github.com/DarkWinzo)
+* [`Alien Alfa`](https://github.com/Alien-Alfa)
+  
+License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
