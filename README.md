@@ -28,11 +28,10 @@
  # `Scan QR Code For Session`
  
 <a href="https://queenmd-qr.darkwinzo.repl.co/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
-  <br><br><br>
+  <br><br>
 # `Upload Session to Github`
 
 ### ⚠️ How to Deploy! 
-  
 ```
 ▶️ පළමුව ඔයා Github account එකක් හදාගන්න.
 ▶️ ඊටපස්සෙ මේ පල්ලෙහා තියෙන Fork බටන් එක ඔබලා Fork කර ගන්න.
