@@ -1,0 +1,56 @@
+{
+        "name": "Queen-MD",
+	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/DarkWinzo/Queen-MD",
+	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
+	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
+  "stack": "container",
+  "addons": [{
+  "plan": "heroku-postgresql"
+    }],
+    "env": {
+      "HEROKU_APP_NAME": {
+        "description": "Heroku app name, same as above entered",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "required": true
+      },         
+                "SESSION_ID": {
+			"description": "SESSION ID",
+			"required": true
+			},
+		"OWNER_NAME": {
+			"description": "Add the owner name here and if you want to use the default name then just leave it",
+			"required": false,
+			"value": "DarkWinzo"
+		},
+		"OWNER_NUMBER": {
+			"description": "Add the owner number here",
+			"required": true,
+			"value": ""
+		},
+		"PACK_NAME": {
+			"description": "Add pack name here",
+			"required": true,
+			"value": "Queen-MD"
+		},
+		"STICKER_AUTHOR_NAME": {
+			"description": "Add sticker pack author name here",
+			"required": true,
+			"value": "DarkWinzo"
+		}
+	},
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+		 {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+    ]
+}
