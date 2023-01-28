@@ -23,12 +23,12 @@
  
  (https://github.com/DarkWinzo/Queen-MD/fork)**
 --
-###  **Deploy on Koyeb** .
+###  ***Deploy on Koyeb*** 
  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)
 --
  
-###  **Deploy on Railway***
+###  ***Deploy on Railway***
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6sO_4x?referralCode=RbgPhK)
 --
