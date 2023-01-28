@@ -109,7 +109,7 @@ yarn
 ```
 ## Join Support Group :
 
-<a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/GWnd0H8/Supportgp.png" width="150" border="0"></a>
+<a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/GWnd0H8/Supportgp.png" width="300" border="0"></a>
 
 -- 
 
