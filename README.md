@@ -28,7 +28,8 @@
 
  
 ## CLICK FORK TO REPO
- [![Fork Repo](https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745)](https://github.com/DarkWinzo/Queen-MD/fork)
+
+ <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="250"></a> 
  -- 
  
 ###  ***Deploy on Koyeb*** 
@@ -43,7 +44,7 @@
   
 ###  ***Deploy on replit*** 
  
-[![Deploy on Railway](https://repl.it/badge/github/quiec/whatsasenag)](https://replit.com/@DarkWinzo/Queen-MD?v=1)
+<a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
 --
  
 ### ***Deploy on MOGENIOUS***
