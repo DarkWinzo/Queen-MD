@@ -21,19 +21,19 @@
    
 ```                      OWNER_NAME                      ```
    
-```                      OWNER_NUMBER                      ```
+```                      OWNER_NUMBER                    ```
 
-```                      PACK_NAME                      ```   
+```                      PACK_NAME                       ```   
    
-```                      STICKER_AUTHOR_NAME                      ``` 
+```                      STICKER_AUTHOR_NAME             ``` 
 
-```                      ANTICALL                      ```    
+```                      ANTICALL                        ```    
  </p>
  
  
-## Deployment Methods
+# Deployment Methods
    
-------
+---
 
 **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
 
