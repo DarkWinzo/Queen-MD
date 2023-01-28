@@ -32,14 +32,8 @@
  
  (https://github.com/DarkWinzo/Queen-MD/fork)**
  
--- 
- 
-###  ***Deploy on replit*** 
- 
-[![Deploy to Replit](https://repl.it/badge/github/quiec/whatsasenag)(https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)
 
- 
- -- 
+-- 
  
 ###  ***Deploy on Koyeb*** 
  
@@ -52,6 +46,12 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6sO_4x?referralCode=RbgPhK)
 
  --
+  
+###  ***Deploy on replit*** 
+ 
+[<img src="https://repl.it/badge/github/quiec/whatsasenag" width="250"/>](https://replit.com/@DarkWinzo/Queen-MD?v=1)
+
+ 
  
 ### ***Deploy on MOGENIOUS***
   
