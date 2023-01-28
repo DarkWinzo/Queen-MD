@@ -17,23 +17,25 @@
  
 ## Deployment Methods
 ---
-### **Get SESSION-ID(https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**
+## **Get SESSION-ID by scanning QR code. `Whatapp>Three dots>Linked Devices`**
  
-2.  ***Click [FORK](https://github.com/DarkWinzo/Queen-MD/fork)**
+  ***Click FORK to Firk repo
+ 
+ (https://github.com/DarkWinzo/Queen-MD/fork)**
 --
-4.  **Deploy on Koyeb** .
+###  **Deploy on Koyeb** .
  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)
 --
  
-###  **[Deploy on Railway***
+###  **Deploy on Railway***
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6sO_4x?referralCode=RbgPhK)
 --
  
-7. ***Deploy on MOGENIOUS***
+*### ***Deploy on MOGENIOUS***
   
-8. ***Deploy in Linux Terminal***
+### ***Deploy in Linux Terminal***
 
 9. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
 ---
