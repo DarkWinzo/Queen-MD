@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot-md",
+  "name": "Queen-MD",
   "version": "1.0.0",
   "description": "Multi device wa bot.",
   "main": "index.js",
@@ -8,17 +8,17 @@
     "start": "node index.js"
   },
   "keywords": [
-    "termux",
+    "Queen-MD",
+    "queen",
     "whatsapp",
-    "2021",
     "wabase-md",
-    "base",
+    "darkwinzo",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "Adithyan",
+  "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys" : "^4.4.0",
@@ -83,10 +83,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HERMIT-SIR/whatsapp-bot-md.git"
+    "url": "git+https://github.com/DarkWinzo/Queen-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/HERMIT-SIR/whatsapp-bot-md/issues"
+    "url": "https://github.com/DarkWinzo/Queen-MD/issues"
   },
-  "homepage": "https://github.com/HERMIT-SIR/whatsapp-bot-md#readme"
+  "homepage": "https://github.com/DarkWinzo/Queen-MD#readme"
 }
