@@ -11,6 +11,12 @@
  <p align="center">
   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
+ ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-MD?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-MD?style=social)
+
+![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-MD?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/DarkWinzo/Queen-MD?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
  
  <p align="center"><img src="https://profile-counter.glitch.me/{DarkWinzo}/count.svg" alt="DarkWinzo :: Visitor's Count" /></p>
 
