@@ -47,7 +47,12 @@
 <a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
 --
  
-### ***Deploy on MOGENIOUS***
+### ***Deploy on Heroku***
+
+<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
+ ---
+ 
+ ### ***Deploy on MOGENIOUS***
  
  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ＤａｒｋＷｉｎｚｏ" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" width="250"></a> 
 --
