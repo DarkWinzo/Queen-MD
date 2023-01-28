@@ -32,17 +32,17 @@
    
    
    
-```                      SESSION_ID                      ```
+```              SESSION_ID                ```
    
-```                      OWNER_NAME                      ```
+```              OWNER_NAME                ```
    
-```                      OWNER_NUMBER                    ```
+```              OWNER_NUMBER              ```
 
-```                      PACK_NAME                       ```   
+```              PACK_NAME                 ```   
    
-```                      STICKER_AUTHOR_NAME             ``` 
+```              STICKER_AUTHOR_NAME       ``` 
 
-```                      ANTICALL                        ```    
+```              ANTICALL                  ```    
  </p>
  
  
