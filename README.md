@@ -134,8 +134,7 @@ You Can't Modify This Queen-MD Bot
 ### Special Thanks To : 
  
 - [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-- [Alien-Alfa](https://github.com/Alien-Alfa)
-- [WhiteZony](https://github.com/WhiteZony)
+- [`DikaArdnt`](https://github.com/DikaArdnt)
  
 ## License
 
