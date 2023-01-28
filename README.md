@@ -38,6 +38,7 @@
 ###  ***Deploy on Koyeb*** 
  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDarkWinzo%2FQueen-MD.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDarkWinzo%2FQueen-MD?ref=badge_shield)
 
  --
  
@@ -103,3 +104,6 @@ yarn
 ## License
 
 The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDarkWinzo%2FQueen-MD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDarkWinzo%2FQueen-MD?ref=badge_large)
