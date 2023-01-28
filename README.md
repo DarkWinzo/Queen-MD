@@ -17,8 +17,14 @@
   <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
  
 ## Deployment Methods
+   
 ---
+   
 ## **Get SESSION-ID by scanning QR code. `Whatapp>Three dots>Linked Devices`**
+ 
+ [<img src="https://repl.it/badge/github/quiec/whatsasenag" width="25"/>](https://github.com/user/repository/subscription)
+
+
  
   ***Click FORK to Firk repo
  
