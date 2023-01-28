@@ -15,10 +15,15 @@
 
 
   <p align="center"> Environment Variables
+   
+   
   ```SESSION_ID
   ```
+   
+   
   ```OWNER_NAME
   ```
+   
   </p
  
 ## Deployment Methods
