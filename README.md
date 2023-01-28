@@ -46,9 +46,28 @@
 
  --
  
-*### ***Deploy on MOGENIOUS***
+### ***Deploy on MOGENIOUS***
   
-### ***Deploy in Linux Terminal***
+  ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
+
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+git clone https://github.com/DarkWinzo/Queen-MD
+cd Queen-MD
+npm install
+npm i pm2
+pm2 start index.js && pm2 save && pm2 logs
+```
+
+## ⚠️ RECOMMENDED INSTALL ON TERMUX
+
+```bash
+pkg install yarn
+yarn
+```
 
 9. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
 
