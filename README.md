@@ -60,6 +60,9 @@
  
 # CLICK FORK TO REPO
 <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
+ <p align="center">
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
  -- 
  
 ###  ***Deploy on Koyeb*** 
