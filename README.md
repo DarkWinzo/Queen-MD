@@ -49,11 +49,15 @@
   
 ###  ***Deploy on replit*** 
  
-[<img src="https://repl.it/badge/github/quiec/whatsasenag" width="250"/>](https://replit.com/@DarkWinzo/Queen-MD?v=1)
-
+[![Deploy on Railway](https://repl.it/badge/github/quiec/whatsasenag)](https://replit.com/@DarkWinzo/Queen-MD?v=1)
  
+ --
  
 ### ***Deploy on MOGENIOUS***
+ 
+ https://replit.com/@DarkWinzo/Queen-MD?v=1
+ 
+ --
   
   ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
 
