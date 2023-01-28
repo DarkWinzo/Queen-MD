@@ -7,7 +7,45 @@
 </p>
  
 
-
+data_bars(
+  data,
+  text_position = "inside-end",
+  fill_color = "#15607A",
+  fill_color_ref = NULL,
+  fill_by = NULL,
+  fill_opacity = 1,
+  fill_gradient = FALSE,
+  background = "#EEEEEE",
+  number_fmt = NULL,
+  bias = 1,
+  min_value = NULL,
+  max_value = NULL,
+  align_bars = "left",
+  bar_height = NULL,
+  force_outside = NULL,
+  text_color = "black",
+  text_color_ref = NULL,
+  text_size = NULL,
+  brighten_text = TRUE,
+  brighten_text_color = "white",
+  bold_text = FALSE,
+  border_width = NULL,
+  border_style = NULL,
+  border_color = NULL,
+  icon = NULL,
+  icon_ref = NULL,
+  icon_size = 20,
+  icon_color = NULL,
+  icon_color_ref = NULL,
+  img = NULL,
+  img_ref = NULL,
+  img_height = 20,
+  img_width = 20,
+  box_shadow = FALSE,
+  round_edges = FALSE,
+  tooltip = FALSE,
+  animation = "width 1s ease"
+)
 
 ---
 
@@ -22,14 +60,7 @@
   ***Click FORK to Firk repo
  
  (https://github.com/DarkWinzo/Queen-MD/fork)**
---
- | Header 1  | Header 2            | Header 3  |
-
-| --------- | ------------------- | --------- |
-
-| Some data |                     | [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)   |
-
-| data      | Some long data here | more data | 
+-- 
  
 ###  ***Deploy on Koyeb*** 
  
