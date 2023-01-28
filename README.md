@@ -30,7 +30,7 @@
  
   ***Click FORK to Fork repo
  
- (https://github.com/DarkWinzo/Queen-MD/fork)**
+[![Fork Repo](https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745)](https://github.com/DarkWinzo/Queen-MD/fork)
  -- 
  
 ###  ***Deploy on Koyeb*** 
