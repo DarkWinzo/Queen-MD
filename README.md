@@ -60,39 +60,41 @@
  
 # CLICK FORK TO REPO
 <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
- <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
 -- 
  
 ###  ***Deploy on Koyeb*** 
  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
 --
  
 ###  ***Deploy on Railway***
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6sO_4x?referralCode=RbgPhK)
-   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
+ 
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
 --
   
 ###  ***Deploy on replit*** 
  
 <a href="https://replit.com/@DarkWinzo/Queen-MD?v=1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="250"></a> 
-   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
 --
  
 ### ***Deploy on Heroku***
 
 <a href="https://heroku.com/deploy?template=https://github.com/DarkWinzo/Queen-MD "><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
-   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
+ 
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
  ---
  
  ### ***Deploy on MOGENIOUS***
  
  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ＤａｒｋＷｉｎｚｏ" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" width="250"></a> 
-   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
+  
+ <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD-This%20is%20New%20Version-orange.svg?style=for-the-badge&logo=xcode" /></a>
 --
   
   ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
