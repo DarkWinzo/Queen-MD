@@ -17,12 +17,19 @@
   <p align="center"> Environment Variables
    
    
-  ```SESSION_ID```
+```                      SESSION_ID                      ```
    
+```                      OWNER_NAME                      ```
    
-  ```OWNER_NAME```
+```                      OWNER_NUMBER                      ```
+
+```                      PACK_NAME                      ```   
    
-  </p
+```                      STICKER_AUTHOR_NAME                      ``` 
+
+```                      ANTICALL                      ```    
+ </p>
+ 
  
 ## Deployment Methods
    
