@@ -24,7 +24,7 @@
  
  
  
- [<img src="https://repl.it/badge/github/quiec/whatsasenag" width="125"/>](https://github.com/user/repository/subscription)
+ [<img src="https://repl.it/badge/github/quiec/whatsasenag" width="250"/>](https://github.com/user/repository/subscription)
 
 
  
