@@ -53,7 +53,7 @@
  
 ### ***Deploy on MOGENIOUS***
  
- https://replit.com/@DarkWinzo/Queen-MD?v=1
+[![Deploy on Mogenious](https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview) 
 --
   
   ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
