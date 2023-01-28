@@ -108,7 +108,7 @@ pkg install yarn
 yarn
 ```
 
- ---
+ 
 
 
 
@@ -127,4 +127,4 @@ You Can't Modify This Queen-MD Bot
  
 ## License
 
-The Queen is made available under the [GPL-3 license](https://github.com/DarkWinzo/Queen-MD/blob/main/LICENCE). 
+The Queen is made available under the [MIT License](https://github.com/DarkWinzo/Queen-MD/blob/main/LICENCE). 
