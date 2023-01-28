@@ -20,7 +20,7 @@
    
 ---
    
-#### ***Get SESSION-ID by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+#### ***Get [SESSION-ID] by scanning QR code. `Whatapp>Three dots>Linked Devices`(https://github.com/user/repository/subscription)***
  
  
  
