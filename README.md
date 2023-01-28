@@ -14,7 +14,14 @@
 ---
 
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
+  <p align="center"> Environment Variables
+  ```
+  SESSION_ID
+  ```
+  ```
+  OWNER_NAME
+  ```
+  </p
  
 ## Deployment Methods
    
