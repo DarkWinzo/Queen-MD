@@ -15,11 +15,9 @@
 
 
   <p align="center"> Environment Variables
+  ```SESSION_ID
   ```
-  SESSION_ID
-  ```
-  ```
-  OWNER_NAME
+  ```OWNER_NAME
   ```
   </p
  
