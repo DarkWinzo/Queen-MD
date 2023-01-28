@@ -49,7 +49,7 @@
  
 ### ***Deploy on Heroku***
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/DarkWinzo/Queen-MD "><img title="ＤａｒｋＷｉｎｚｏ" src="https://www.herokucdn.com/deploy/button.svg" width="250"></a>
  ---
  
  ### ***Deploy on MOGENIOUS***
