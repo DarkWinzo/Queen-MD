@@ -44,20 +44,17 @@
 ###  ***Deploy on Railway***
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/6sO_4x?referralCode=RbgPhK)
-
- --
+--
   
 ###  ***Deploy on replit*** 
  
 [![Deploy on Railway](https://repl.it/badge/github/quiec/whatsasenag)](https://replit.com/@DarkWinzo/Queen-MD?v=1)
- 
- --
+--
  
 ### ***Deploy on MOGENIOUS***
  
  https://replit.com/@DarkWinzo/Queen-MD?v=1
- 
- --
+--
   
   ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
 
