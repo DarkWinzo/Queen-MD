@@ -22,6 +22,8 @@
    
 ## **Get SESSION-ID by scanning QR code. `Whatapp>Three dots>Linked Devices`**
  
+ 
+ 
  [<img src="https://repl.it/badge/github/quiec/whatsasenag" width="25"/>](https://github.com/user/repository/subscription)
 
 
