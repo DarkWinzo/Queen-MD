@@ -20,17 +20,15 @@
    
 ------
 
-   **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
+**Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
 
  
- 
- <a href="https://queen-md-qr.darkwinzo.repl.co/"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>
+<a href="https://queen-md-qr.darkwinzo.repl.co/"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>
 
 
  
-  ***Click FORK to Fork repo
- 
-[![Fork Repo](https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745)](https://github.com/DarkWinzo/Queen-MD/fork)
+## CLICK FORK TO REPO
+ [![Fork Repo](https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745)](https://github.com/DarkWinzo/Queen-MD/fork)
  -- 
  
 ###  ***Deploy on Koyeb*** 
