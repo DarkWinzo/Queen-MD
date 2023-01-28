@@ -110,10 +110,9 @@ yarn
 ## Join Support Group :
 
 <a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="ＤａｒｋＷｉｎｚｏ" src="https://i.ibb.co/GWnd0H8/Supportgp.png" width="300" border="0"></a>
-
 -- 
 
-- Star ⭐ repo if you like Queen-MD.
+### **Star ⭐ repo if you like Queen-MD.**
 
 ## ❗ Warning
  ```You Can't Modify This Queen-MD Bot```
