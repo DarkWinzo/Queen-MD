@@ -17,7 +17,7 @@
  
 ## Deployment Methods
 ---
-1. **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**
+## **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**
 2.  ***Click [FORK](https://github.com/DarkWinzo/Queen-MD/fork)**
 4.  **Deploy on Koyeb** .
 
