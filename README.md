@@ -119,13 +119,14 @@ yarn
 You Can't Modify This Queen-MD Bot
  
  
-##DEVELOPER TEAM :
+#DEVELOPER TEAM :
+ 
   <div align="center">
   
 | [![DarkWinzo](https://github.com/DarkWinzo.png?size=200)](https://github.com/DarkWinzo) | [![DarkWinzo](https://github.com/DarkWinzo.png?size=200)](https://github.com/DarkWinzo) |
 |----|----|
-| [DarkWinzo](https://github.com/DarkWinzo) | [DarkWinzo](https://github.com/DarkWinzo) |
-|  𝗠𝗔𝗜𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 | 𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥 |
+| [DarkWinzo](https://github.com/DarkWinzo) | [WhiteZony](https://github.com/WhiteZony) | [NO NAME](https://github.com) |
+|  𝗠𝗔𝗜𝗡 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 | 𝗚𝗥𝗔𝗣𝗛𝗜𝗖 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥 | 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝗘𝗥 |
   
   </div>
 
