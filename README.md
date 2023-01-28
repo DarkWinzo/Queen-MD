@@ -49,13 +49,13 @@
 # Deployment Methods
  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Railway%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
 
----
+
 **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
 
  
 <a href="https://queen-md-qr.darkwinzo.repl.co/"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>
 
- ---
+ 
 
  
 # CLICK FORK TO REPO
