@@ -20,8 +20,8 @@
    
 ---
    
-#### ***Get [SESSION-ID] by scanning QR code. `Whatapp>Three dots>Linked Devices`(https://github.com/user/repository/subscription)***
- 
+#### ***Get (SESSION-ID) by scanning QR code. `Whatapp>Three dots>Linked Devices`(https://github.com/user/repository/subscription)***
+
  
  
  [<a href="https://ibb.co/0BgD6LF"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>](https://github.com/user/repository/subscription)
