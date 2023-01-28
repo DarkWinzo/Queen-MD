@@ -78,12 +78,17 @@ yarn
 
 - Star ⭐ repo if you like Queen-MD.
 
+## ❗ Warning
+ 
+You Can't Modify This Queen-MD Bot
 
 
-### Special Thanks To
-
-- [Alien-Alfa](https://github.com/Alien-Alfa) for Help
-
+### Special Thanks To : 
+ 
+- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+- [Alien-Alfa](https://github.com/Alien-Alfa)
+- [WhiteZony](https://github.com/WhiteZony)
+ 
 ## License
 
 The Queen is made available under the [GPL-3 license](https://github.com/DarkWinzo/Queen-MD/blob/main/LICENCE). 
