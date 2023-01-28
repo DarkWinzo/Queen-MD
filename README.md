@@ -49,7 +49,7 @@
  
 ### ***Deploy on MOGENIOUS***
  
-[![Deploy on Mogenious](https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview) 
+ <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="ＤａｒｋＷｉｎｚｏ" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" width="250"></a> 
 --
   
   ## ⚠️ FOR TERMUX/UBUNTU/SSH USER
