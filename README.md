@@ -64,7 +64,7 @@
  
 ###  ***Deploy on Koyeb*** 
  
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DarkWinzo/Queen-MD)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://darkwinzo2240.hopp.to/Queen)
 --
  
 ###  ***Deploy on Railway***
