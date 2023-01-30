@@ -52,9 +52,8 @@
 
 **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
 
-```QR එක වැඩ නෑ.පොඩ්ඩක් ඉන්න.පැයක් ඇතුලත හදන්නම්.```
  
-<a href="https://queen-md-qr.darkwinzo.repl.co/"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>
+<a href="https://queen-qr.darkwinzo.repl.co/"><img src="https://i.ibb.co/0BgD6LF/pngwing-com.png" alt="pngwing-com" border="0"></a>
 
  
 
