@@ -30,6 +30,7 @@ global.premium = [`${fake}`]
 global.anticall = process.env.ANTICALL === undefined ? 'false' : process.env.ANTICALL
 global.packname = process.env.PACK_NAME === undefined ? 'Queen-MD' : process.env.PACK_NAME
 global.author = process.env.STICKER_AUTHOR_NAME === undefined ? 'DarkWinzo' : process.env.STICKER_AUTHOR_NAME
+global.pmblock = process.env.PM_BLOCK === undefined ? 'false' : process.env.PM_BLOCK
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 global.Botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
