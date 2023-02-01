@@ -25,27 +25,6 @@
  
  
 ---
-
-
-  <p align="center"> 
-                ▼△▼△ 𝙴𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 ▼△▼△
-   
-   
-   
-```              SESSION_ID                ```
-   
-```              OWNER_NAME                ```
-   
-```              OWNER_NUMBER              ```
-
-```              PACK_NAME                 ```   
-   
-```              STICKER_AUTHOR_NAME       ``` 
-
-```              ANTICALL                  ```    
- </p>
- 
- 
 # Deployment Methods
  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
 ---
