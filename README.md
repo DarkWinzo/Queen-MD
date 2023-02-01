@@ -51,7 +51,7 @@
 ---
 ## Click Here To Deploy
 
-<a href="https://queen-qr"><img src="https://www.clipartmax.com/png/full/135-1353963_click-here-button-free-click-here-button-png.png" alt="pngwing-com" border="0"></a>
+<a href="https://queen-md-deploy.vercel.app/"><img src="https://www.clipartmax.com/png/full/135-1353963_click-here-button-free-click-here-button-png.png" alt="pngwing-com" width="350" border="0"></a>
 
 ---
 
