@@ -48,7 +48,12 @@
  
 # Deployment Methods
  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
+---
+## Click Here To Deploy
 
+<a href="https://queen-qr"><img src="https://images.getpng.net/uploads/preview/set-click-here-button-with-pointer-hand-clicking-option-55-1151640019290kqlgctqwhq.webp" alt="pngwing-com" border="0"></a>
+
+---
 
 **Get [SESSION-ID](https://queen-md-qr.darkwinzo.repl.co/) by scanning QR code. `Whatapp>Three dots>Linked Devices`**   
 
