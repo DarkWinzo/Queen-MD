@@ -1,9 +1,9 @@
 {
-        "name": "Queen-MD",
-	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DarkWinzo/Queen-MD",
+        "name": "ABHISHEK-SER",
+	"description": "ABHISHEK-SER WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/BOSS444HACKER/ABHISHEK-SER",
 	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
-	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
+	"keywords": ["multi-device","ABHISHEK-SER","BOSS444HACKER"],
   "stack": "container",
   "addons": [{
   "plan": "heroku-postgresql"
