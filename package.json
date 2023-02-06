@@ -1,5 +1,5 @@
 {
-  "name": "Queen-MD",
+  "name": "ABHISHEK-SER",
   "version": "1.0.0",
   "description": "Multi device wa bot.",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DarkWinzo",
+  "author": "ABHISHEK-SURESH",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys" : "^4.4.0",
@@ -84,10 +84,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWinzo/Queen-MD.git"
+    "url": "git+https://github.com/BOSS444HACKER/ABHISHEK-SER.git"
   },
   "bugs": {
-    "url": "https://github.com/DarkWinzo/Queen-MD/issues"
+    "url": "https://github.com/BOSS444HACKER/ABHISHEK-SER/issues"
   },
   "homepage": "https://github.com/DarkWinzo/Queen-MD#readme"
 }
