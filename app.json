@@ -1,8 +1,8 @@
 {
-        "name": "Queen-MD",
-	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DarkWinzo/Queen-MD",
-	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
+        "name": "ABHISHEK-SER-MD",
+	"description": "ABHISHEK-SER-MD WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/BOSS444HACKER/ABHISHEK-SER-MD",
+	"logo": "https://i.imgur.com/WppGTCm.jpeg",
 	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
   "stack": "container",
   "addons": [{
@@ -24,22 +24,22 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it",
 			"required": false,
-			"value": "DarkWinzo"
+			"value": "AbhishekSuresh"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "919074692450"
 		},
 		"PACK_NAME": {
 			"description": "Add pack name here",
 			"required": true,
-			"value": "Queen-MD"
+			"value": "ABHISHEK-SER-MD"
 		},
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "DarkWinzo"
+			"value": "AbhishekSuresh"
 		}
 	},
 	"buildpacks": [
