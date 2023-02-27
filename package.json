@@ -1,5 +1,5 @@
 {
-  "name": "Queen-MD",
+  "name": "ABHISHEK-SER-MD",
   "version": "1.0.0",
   "description": "Multi device wa bot.",
   "main": "index.js",
@@ -84,7 +84,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWinzo/Queen-MD.git"
+    "url": "git+https://github.com/BOSS444HACKER/ABHISHEK-SER-MD"
   },
   "bugs": {
     "url": "https://github.com/DarkWinzo/Queen-MD/issues"
