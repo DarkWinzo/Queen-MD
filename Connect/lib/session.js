@@ -9,23 +9,23 @@
 ══════════════════════════════════════════════════════════════════════════
                             ( OWNER  DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ Queen Multi-device Whatsapp Bot
-✅ Coded By DarkWinzo 
+✅ ABHISHEK-SER Multi-device Whatsapp Bot
+✅ Coded By AbhishekSuresh
 ══════════════════════════════════════════════════════════════════════════
                               ( CONTACT ME )
 ══════════════════════════════════════════════════════════════════════════
-✅ Telegram: https://t.me/DarkWinzo
-✅ Whatsapp: https://wa.link/jw9ki6
-✅ Instagram:https://msng.link/o/?darkwinzo=ig
-✅ Youtube: https://youtube.com/c/DarkWinzo                                                                                                      
+✅ Telegram: https://t.me/AbhishekSuresh
+✅ Whatsapp: https://wa.//+919074692450
+✅ Instagram:https://msng.link/o/?abhishek_ser=ig
+✅ Youtube: https://youtube.com/c/ComedyMelodyCH                                                                                                      
 ══════════════════════════════════════════════════════════════════════════
                              ( PROJECT DETAILS )
 ══════════════════════════════════════════════════════════════════════════
-✅ @project_name Queen-MD [WA Multi-device]
-✅ @author DarkWinzo <https://github.com/DarkWinzo>
+✅ @project_name ABHISHEK-SER-MD [WA Multi-device]
+✅ @author DarkWinzo <https://github.com/BOSS444HACKER>
 ✅ @description A WhatsApp based 3ʳᵈ party application that provide many 
    services with a real-time automated conversational experience
-✅ @link <https://github.com/DarkWinzo/Queen-MD>
+✅ @link <https://github.com/BOSS444HACKER/ABHISHEK-SER-MD>
 ✅ @version 0.0.1
 ══════════════════════════════════════════════════════════════════════════
                              ( PROJECT RULES )
@@ -34,7 +34,7 @@
    or copy the codes/script,
    please Contact me;
 ✅ If the recoded/reupload or copy script? "i will take action immediately"
-✅ © 2022 Queen Bot Inc.Technical Hacker Team
+✅ © 2023 ABHISHEK-SER Bot Inc.Technical Hacker Team
 ✅ God Bless You, Family and Myself
 ══════════════════════════════════════════════════════════════════════════
 */
