@@ -3,30 +3,30 @@
 
  
  <p align="center">
-<a href="https://github.com/DarkWinzo/Queen-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Queen&description=Hello,%20I%20am%20ABHISHEK-SER%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/5hYmkkK/Menu.png&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
+<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=ABHISHEK-SER&description=Hello,%20I%20am%20ABHISHEK-SER%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/5hYmkkK/Menu.png&backgroundColor=%23ecf0f1&instagram=@abhishek_ser&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/ComedyMelodyCh8468"/></a>
 </p>
  
  
  
  <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/AbhishekSuresh2"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 
- ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-MD?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-MD?style=social)
+ ![forks](https://img.shields.io/github/forks/AbhishekSuresh2/ABHISHEK-SER-MD?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/AbhishekSuresh2/ABHISHEK-SER-MD?style=social)
 
-![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-MD?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/DarkWinzo/Queen-MD?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/AbhishekSuresh2/ABHISHEK-SER-MD?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/AbhishekSuresh2/ABHISHEK-SER-MD?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
  
- <p align="center"><img src="https://profile-counter.glitch.me/{DarkWinzo}/count.svg" alt="DarkWinzo :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{AbhishekSuresh2}/count.svg" alt="AbhishekSuresh2:: Visitor's Count" /></p>
 
  
  
 ---
 # Deployment Methods
- <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Queen%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
+ <a href="https://github.com/AbhishekSuresh2"><img title="Support" src="https://img.shields.io/badge/ABHISHEK-SER%20MD%20Deploy%20instructions-Touch%20Here-orange.svg?style=for-the-badge&logo=xcode" /></a>   
 ---
 ## Click Here To Deploy
 
@@ -45,7 +45,7 @@
 # CLICK FORK TO REPO
 
 
-<a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
+<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://wac-cdn.atlassian.com/dam/jcr:8da54c66-2109-41df-af77-b575b30e2edc/Git@2x.png?cdnVersion=745" width="150"></a> 
 -- 
 
 ###  ***Deploy on replit*** 
