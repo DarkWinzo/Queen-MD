@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DarkWinzo",
+  "author": "ABHISHEK-SURESH",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys" : "^4.4.0",
@@ -84,10 +84,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BOSS444HACKER/ABHISHEK-SER-MD"
+    "url": "git+https://github.com/AbhishekSuresh2/ABHISHEK-SER-MD"
   },
   "bugs": {
-    "url": "https://github.com/DarkWinzo/Queen-MD/issues"
+    "url": "https://github.com/AbhishekSuresh2/ABHISHEK-SER-MD"
   },
-  "homepage": "https://github.com/DarkWinzo/Queen-MD#readme"
+  "homepage": "https://github.com/AbhishekSuresh2/ABHISHEK-SER-MD"
 }
