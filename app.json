@@ -29,7 +29,7 @@
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "+12312476007"
 		},
 		"PACK_NAME": {
 			"description": "Add pack name here",
