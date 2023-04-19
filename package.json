@@ -21,7 +21,7 @@
   "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
-        "@adiwajshing/baileys" : "^4.4.0",
+        "@adiwajshing/baileys" : "github:DarkWinzo/Baileys",
         "@adiwajshing/baileys2": "github:DarkWinzo/topa",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@adiwajshing/keyed-db2": "github:DarkWinzo/topb",
