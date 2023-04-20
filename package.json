@@ -22,9 +22,9 @@
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys" : "github:DarkWinzo/Baileys",
-        "@adiwajshing/baileys2": "github:DarkWinzo/topa",
+        "@adiwajshing/baileys2": "npm:queen-ytdl-core",
         "@adiwajshing/keyed-db": "^0.2.4",
-        "@adiwajshing/keyed-db2": "github:DarkWinzo/topb",
+        "@adiwajshing/keyed-db2": "github:DarkWinzo/queen-yt-search",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0", 
         "@bochilteam/scraper": "^2.0.0",
