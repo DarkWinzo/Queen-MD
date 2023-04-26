@@ -21,7 +21,7 @@
   "author": "DarkWinzo",
   "license": "MIT",
   "dependencies": {
-        "@adiwajshing/baileys" : "github:DarkWinzo/Baileys",
+        "@adiwajshing/baileys": "^4.4.0",
         "@adiwajshing/baileys2": "npm:queen-ytdl-core",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@adiwajshing/keyed-db2": "github:DarkWinzo/queen-yt-search",
