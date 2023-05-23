@@ -34,12 +34,12 @@
 		"PACK_NAME": {
 			"description": "Add pack name here",
 			"required": true,
-			"value": "Queen-MD"
+			"value": "Bot"
 		},
 		"STICKER_AUTHOR_NAME": {
 			"description": "Add sticker pack author name here",
 			"required": true,
-			"value": "DarkWinzo"
+			"value": "Simran"
 		}
 	},
 	"buildpacks": [
