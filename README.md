@@ -5,7 +5,7 @@
 ```
 If you like Queen-MD ?
 
-Please Give me a star
+Please Give one star
 ```
 
 > Comming Soon...
